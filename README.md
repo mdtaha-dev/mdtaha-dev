@@ -1,16 +1,44 @@
-## Hi there 👋
+<!-- README.md — Mohammed Taha -->
 
-<!--
-**mdtaha-dev/mdtaha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mohammed Taha
 
-Here are some ideas to get you started:
+**Fullstack Developer · Cyber Security · India**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Who am I
+
+I build things at the intersection of AI, security, and frontend, tools that are fast to use and not painful to look at. Four years of freelance video editing runs alongside, which keeps me honest about what good output actually feels like.
+
+---
+
+### Projects I have worked on
+
+| Project | Stack | Status |
+|---|---|---|
+| [Vibekit Studio](https://github.com/mdtaha-dev/Vibekit-Studio) | Creative page builder · 6 design themes · one-click publish | Live |
+| [SecureScope](https://github.com/mdtaha-dev/SecureScope) | React + FastAPI + Groq AI — AI security log analyzer | Live |
+| Portfolio Site | React + Vite + Tailwind (space/terminal aesthetic) | In progress |
+
+---
+
+### What tools I use
+
+**Frontend** — React · Tailwind CSS · Vite
+
+**Backend / AI** — Python · FastAPI · LangChain · Groq · Streamlit · PHP
+
+**Database** — PostgreSQL · MySQL
+
+**Deployment** — Netlify · Vercel · Render · Streamlit Community Cloud
+
+**Creative** — Adobe Premiere Pro · After Effects · DaVinci Resolve
+
+**Cloud / Security** — GCP · Kali Linux · Nmap · Burp Suite
+
+---
+
+### How to reach me
+
+- LinkedIn: [in/mohammedtahaa](https://www.linkedin.com/in/mohammedtahaa/)
+- Email: mohammedtaha.hashmi@gmail.com
