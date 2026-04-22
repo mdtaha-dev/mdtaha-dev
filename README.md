@@ -14,9 +14,9 @@ I build things at the intersection of AI, security, and frontend, tools that are
 
 | Project | Stack | Status |
 |---|---|---|
-| [Vibekit Studio](https://vibe-kit-studio.netlify.app/) | Creative page builder · 6 design themes · one-click publish | [Live](https://vibe-kit-studio.netlify.app/) |
-| [SecureScope](https://securescope.vercel.app/) | React + FastAPI + Groq AI — AI security log analyzer | [Live](https://securescope.vercel.app/) |
-| [Threat Intelligence Agent](https://threat-intelligence-research-agent-avz5rnw2j6th6vjnmfbkfz.streamlit.app/) | LangChain ReAct · LLaMA 3.3 70B · MITRE ATT&CK + NVD APIs | [Live](https://threat-intelligence-research-agent-avz5rnw2j6th6vjnmfbkfz.streamlit.app/) |
+| [Vibekit Studio](https://github.com/mdtaha-dev/Vibekit-Studio) | Creative page builder · 6 design themes · one-click publish | [Live](https://vibe-kit-studio.netlify.app/) |
+| [SecureScope](https://github.com/mdtaha-dev/SecureScope) | React + FastAPI + Groq AI — AI security log analyzer | [Live](https://securescope.vercel.app/) |
+| [Threat Intelligence Agent](https://github.com/mdtaha-dev/Threat-Intelligence-Research-Agent) | LangChain ReAct · LLaMA 3.3 70B · MITRE ATT&CK + NVD APIs | [Live](https://threat-intelligence-research-agent-avz5rnw2j6th6vjnmfbkfz.streamlit.app/) |
 
 ---
 
